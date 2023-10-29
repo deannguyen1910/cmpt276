@@ -31,22 +31,22 @@
 ## SDLC (Software Development Life Cycle)
 ### SDLC Methodologies
 #### Waterfall ![Waterfall](../images//WaterFall.png)
-    * Linear-sequential life cycle model
-    * Phases are dependent on each other
-    * Teams are large
-    * Can take several months or even years to complete
+* Linear-sequential life cycle model
+* Phases are dependent on each other
+* Teams are large
+* Can take several months or even years to complete
 
-    * Requirement
-        * Well understood and  stable requirements upfront
-    * Advantage 
-        * Easy to plan and staff
-    * Disadvantage
-        * Iterations are costly $$
-        * Lack of feedback from customers
+* Requirement
+    * Well understood and  stable requirements upfront
+* Advantage 
+    * Easy to plan and staff
+* Disadvantage
+    * Iterations are costly $$
+    * Lack of feedback from customers
 
 
 
-#### V-Shape####
+#### V-Shape
 #### Prototyping
 #### Iterative
 #### Spiral
