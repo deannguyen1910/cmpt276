@@ -30,7 +30,7 @@
 
 ## SDLC (Software Development Life Cycle)
 ### SDLC Methodologies
-#### Waterfall ![Waterfall](../images//Waterfall.png)
+#### Waterfall ![Waterfall](../images/Waterfall.png)
 * Linear-sequential life cycle model
 * Phases are dependent on each other
 * Teams are large
@@ -44,7 +44,7 @@
     * Iterations are costly $$
     * Lack of feedback from customers
 
-#### V-Shape ![V-shape](../images//V-shape.png)
+#### V-Shape ![V-shape](../images/V-shape.png)
 * Variant of the Waterfall
     * Validation and Verification
 * Requirement
@@ -60,7 +60,11 @@
 * Early feedback 
 * Good model for new systems
 ![Prototyping example](../images/PrototypingExample.png)
-#### Iterative
+#### Iterative ![Iterative](../images/Iterative.png)
+* Emphasized iterative and incremental
+* Major requirements are known from the beginning
+* Prioritizes important functionality
+
 #### Spiral
 #### Agile
 * Scrum, Kanban, Extreme Programming (XP)
