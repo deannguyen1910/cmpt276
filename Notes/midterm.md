@@ -52,13 +52,14 @@
     * Testing is done in parallel
 * Good for high reliability systems
 
-#### Prototyping ![Waterfall](../images//Waterfall.png)
+#### Prototyping ![Prototyping](../images/Prototyping.png)
 * Low fidelity prototypes
 * Easy to build
 * Readily modifiable/extensible, 
 * Partially specified working model of overall system
 * Early feedback 
 * Good model for new systems
+![Prototyping example](../images/PrototypingExample.png)
 #### Iterative
 #### Spiral
 #### Agile
