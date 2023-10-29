@@ -8,6 +8,7 @@
 * Documentation – describes product
 * Maintenance – ongoing error correction
 * Evolution – ongoing requirements changes
+
 Goal of Phases
 * Clarify steps to be performed
 * Produce tangible work products
