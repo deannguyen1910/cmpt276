@@ -9,8 +9,20 @@
 * Maintenance – ongoing error correction
 * Evolution – ongoing requirements changes
 
-Goal of Phases
+* Goal of Phases
     * Clarify steps to be performed
     * Produce tangible work products
     * Enable others to review work products
     * Specify next steps
+
+## Stages of Software Development
+![Stages of Software Developments](../images/StagesOfSoftwareDevelopment.png)
+![Cost per Stage](../images/CostPerStage.png)
+
+### Example: 
+* Relative cost of fixing errors at various stages  are:
+    * Specification (3)
+    * Design (5)
+    * Implementation (50)
+    * Maintenance – after deploy (300)
+* If cost to find and fix an error in design is $100, what are the costs for other stages?
