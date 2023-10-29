@@ -45,7 +45,8 @@
     * Iterations are costly $$
     * Lack of feedback from customers
 
-#### V-Shape ![V-shape](../images/V-shape.png)
+#### V-Shape 
+![V-shape](../images/V-shape.png)
 * Variant of the Waterfall
     * Validation and Verification
 * Requirement
@@ -53,7 +54,8 @@
     * Testing is done in parallel
 * Good for high reliability systems
 
-#### Prototyping ![Prototyping](../images/Prototyping.png)
+#### Prototyping 
+![Prototyping](../images/Prototyping.png)
 * Low fidelity prototypes
 * Easy to build
 * Readily modifiable/extensible, 
@@ -61,12 +63,14 @@
 * Early feedback 
 * Good model for new systems
 ![Prototyping example](../images/PrototypingExample.png)
-#### Iterative ![Iterative](../images/Iterative.png)
+#### Iterative 
+![Iterative](../images/Iterative.png)
 * Emphasized iterative and incremental
 * Major requirements are known from the beginning
 * Prioritizes important functionality
 
-#### Spiral ![](../images/Spiral.png)
+#### Spiral 
+![](../images/Spiral.png)
 * 4 "Quadrant"
     * Objectives
     * Risks
@@ -96,7 +100,8 @@
         * Requirements
         * Test plan
 
-#### Agile ![](../images/Agile.png)
+#### Agile 
+![](../images/Agile.png)
 * Most popular SDLC
 * Flexible 
 * Based on agile roles
@@ -117,7 +122,8 @@
     * Team Member
         * Development, Q/A, Client services etc.
 * Popular Agile Frameworks
-    * Scrum ![](../images/Scrum.png)
+    * Scrum 
+    ![](../images/Scrum.png)
         * Most popular Agile framework
         * Cycles called "Sprints"
             * Sprint Planning
@@ -125,7 +131,8 @@
             * Retrospective Meetings
         * Scrum master 
             * Manage process / productivity
-    * Kanban ![](../images/Kanban.png)
+    * Kanban 
+    ![](../images/Kanban.png)
         * "Signboard" in Japanese
         * Agile scheduling system
             * Uses "cards" & "lanes" to track
@@ -133,7 +140,8 @@
             * Github Project
             * Trello
             * Jira
-    * Extreme Programming XP ![](../images/ExtremeProgramming.png)
+    * Extreme Programming XP 
+    ![](../images/ExtremeProgramming.png)
         * Based on project flexibility 
         * Pair Programming 
         * Comprehensive testing 
