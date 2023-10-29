@@ -30,7 +30,7 @@
 
 ## SDLC (Software Development Life Cycle)
 ### SDLC Methodologies
-* Waterfall ![Waterfall](../images//WaterFall.png)
+#### Waterfall ![Waterfall](../images//WaterFall.png)
     * Linear-sequential life cycle model
     * Phases are dependent on each other
     * Teams are large
@@ -46,10 +46,9 @@
 
 
 
-* V-Shape
-
-* Prototyping
-* Iterative
-* Spiral
-* Agile
-    * Scrum, Kanban, Extreme Programming (XP)
+#### V-Shape####
+#### Prototyping
+#### Iterative
+#### Spiral
+#### Agile
+* Scrum, Kanban, Extreme Programming (XP)
