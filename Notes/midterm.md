@@ -30,7 +30,8 @@
 
 ## SDLC (Software Development Life Cycle)
 ### SDLC Methodologies
-#### Waterfall ![Waterfall](../images/Waterfall.png)
+#### Waterfall 
+![Waterfall](../images/Waterfall.png)
 * Linear-sequential life cycle model
 * Phases are dependent on each other
 * Teams are large
