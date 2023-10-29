@@ -1,0 +1,57 @@
+git commit  
+
+git branch "NAME"
+
+git switch "NAME_OF_BRANCH"
+
+git merge "NAME_OF_BRANCH"
+
+git rebase "NAME_OF_BRANCH"
+
+git checkout C4
+git switch C4
+
+git switch bugFix^
+git switch bugFix~4
+
+git branch -f main^         // get main to current head 
+
+git revert HEAD
+
+git reset HEAD
+
+git cherry-pick C1 C2
+
+git rebase -i HEAD~4 git 
+
+
+git clone 
+
+git fetch 
+
+
+git pull = git fetch + git merge 
+
+
+git branch -u o/main foo
+
+git push origin main
+
+git push origin foo^:main
+git push origin main:newBranch
+
+git fetch origin foo
+git fetch origin main~1:foo
+
+git pull origin foo             // is equal to:
+git fetch origin foo; git merge o/foo
+
+git pull origin bar~1:bugFix    ///is equal to:
+
+git fetch origin bar~1:bugFix; git merge bugFix
+
+
+My github username is: deannguyen1910  
+
+Current date is Wednesday, Sep 20 at
+17:23 PM PST 
