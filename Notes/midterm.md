@@ -10,7 +10,7 @@
 * Evolution – ongoing requirements changes
 
 Goal of Phases
-* Clarify steps to be performed
-* Produce tangible work products
-* Enable others to review work products
-* Specify next steps
+    * Clarify steps to be performed
+    * Produce tangible work products
+    * Enable others to review work products
+    * Specify next steps
